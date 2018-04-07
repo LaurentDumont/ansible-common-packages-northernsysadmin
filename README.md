@@ -1,7 +1,7 @@
 Ansible users management
 =========
 
-Allows creation of users with proper permissions and SSH public keys.
+Install common packages for Debian
 
 Requirements
 ------------
